@@ -1,8 +1,10 @@
 pandas
 numpy
 matplotlib
-scikit-learn
+sklearn
 catboost
 xgboost
 Flask
--e .
+dill
+pickle
+#-e .
