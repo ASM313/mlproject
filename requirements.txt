@@ -6,5 +6,5 @@ catboost
 xgboost
 Flask
 dill
-pickle
+gunicorn
 #-e .
